@@ -1,0 +1,9 @@
+adfb,2017,Dark Grey,Blue,Red,11b6d,BMW,55132,6
+aq,2017,Dark Grey,Blue,Red,model1,BMW,55132,34
+afaq,2017,Dark Grey,Blue,,model1,BMW,55132,34
+affdaq,2017,Dark Grey,Blue,,model1,BMW,55132,34
+a,2017,Dark Grey,Blue,Red,116ad,BMW,55132,0
+b,2017,Dark Grey,Blue,Red,11b6d,BMW,55132,82
+c,2013,Dark Grey,Blue,Red,1ge16d,BMW,55132,1
+ca,2013,Dark Grey,Blue,Red,1ge16d,Honda,55132,1
+caa,2013,Dark Grey,Blue,Red,1ge16d,Toyota,55132,0

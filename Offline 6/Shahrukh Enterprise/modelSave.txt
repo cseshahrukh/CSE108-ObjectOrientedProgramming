@@ -1,0 +1,3 @@
+aq,2017,Dark Grey,Blue,Red,BMW,model1,55132,34
+afaq,2017,Dark Grey,Blue,,BMW,model1,55132,34
+affdaq,2017,Dark Grey,Blue,,BMW,model1,55132,34
